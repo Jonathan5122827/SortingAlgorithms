@@ -1,6 +1,6 @@
 
 
-Once you are here in /data , compile the program using the command, g++ main.cpp
+Compile the program using the command, g++ main.cpp
 
 Run the program using ./a.out
 
